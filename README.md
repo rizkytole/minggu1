@@ -1,2 +1,2 @@
 # minggu1
-pertemuan1
+nama rizky
