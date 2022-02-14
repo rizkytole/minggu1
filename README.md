@@ -1,2 +1,2 @@
 # minggu1
-nama rizky
+undo commit terakhir
