@@ -1,2 +1,2 @@
 # minggu1
-undo commit terakhir3
+undo commit terakhir2
